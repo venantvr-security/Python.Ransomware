@@ -31,3 +31,7 @@ Subscribe to channel for more videos.
 > liability and are not responsible for any misuse or damage caused by this tool and software in general.
 
 #Python#Ransomware#Malware
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
